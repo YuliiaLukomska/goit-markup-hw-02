@@ -130,7 +130,7 @@ a {
 }
 /* Fourth-setion */
 
-.fourth-section-list {
+.third-section-list {
   background-color: #ffffff;
 }
 
@@ -148,7 +148,6 @@ a {
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  text-transform: capitalize;
 }
 .fourth-section-text {
   color: #434455;
@@ -162,18 +161,13 @@ a {
 .footer {
   background-color: #2e2f42;
 }
-.logo-footer {
-  color: #f4f4fd;
-  font-family: 'Raleway', sans-serif;
-  font-size: 18px;
-  font-weight: 700;
-  line-height: 1.16;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-}
+
 .footer-text {
   color: #f4f4fd;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+.logo-footer-accent {
+  color: #f4f4fd;
 }
