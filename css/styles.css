@@ -34,6 +34,7 @@ a {
   letter-spacing: 0.02em;
 }
 /* Main */
+/* First-section */
 .first-section {
   background-color: #2e2f42;
 }
@@ -61,4 +62,17 @@ a {
 .button:hover,
 .button:focus {
   background-color: #404bbf;
+}
+/* Second-section */
+.second-section-list-header {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+.second-section-text {
+  color: #434455;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
