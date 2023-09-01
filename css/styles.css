@@ -130,6 +130,10 @@ a {
 }
 /* Fourth-setion */
 
+.fourth-section-list {
+  background-color: #ffffff;
+}
+
 .fourth-section-header {
   color: #2e2f42;
   text-align: center;
@@ -144,6 +148,7 @@ a {
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  text-transform: capitalize;
 }
 .fourth-section-text {
   color: #434455;
