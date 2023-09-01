@@ -6,7 +6,9 @@ body {
 a {
   text-decoration: none;
 }
+
 /* Header */
+
 .logo {
   color: #2e2f42;
   font-family: 'Raleway', sans-serif;
@@ -33,8 +35,11 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+
 /* Main */
+
 /* First-section */
+
 .first-section {
   background-color: #2e2f42;
 }
@@ -63,7 +68,9 @@ a {
 .button:focus {
   background-color: #404bbf;
 }
+
 /* Second-section */
+
 .second-section-list-header {
   font-size: 20px;
   font-weight: 500;
@@ -76,7 +83,9 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+
 /* Third-section */
+
 .third-section {
   background-color: #f4f4fd;
 }
@@ -98,6 +107,27 @@ a {
 .third-section-text {
   color: #434455;
   text-align: center;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+/* Fourth-setion */
+
+.fourth-section-header {
+  text-align: center;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+}
+.fourth-section-list-header {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+.fourth-section-text {
+  color: #434455;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
